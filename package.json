@@ -1,0 +1,16 @@
+{
+  "name": "pandas-ai-api",
+  "version": "1.0.0",
+  "description": "API to analyze data using Pandas-AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pandas-ai": "^1.0.0",
+    "pandas-js": "^1.1.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
